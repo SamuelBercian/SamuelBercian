@@ -1,5 +1,5 @@
 <section align="center">
-    <h1 align="center">Hola, soy Samuel 👋</h1>
+    <h1 align="center">Hello, I am Samuel 👋</h1>
 </section>
 
 ## About me
