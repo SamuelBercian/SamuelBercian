@@ -2,10 +2,10 @@
     <h1 align="center">Hello, I'm Samuel 👋</h1>
 </section>
 
-## About me
+## 🧑🏻‍💼 About me 🧑🏻‍💼
 I am a FullStack developer with experience in **HTML**, **CSS**, **JavaScript**, **Java** and with experience in Frameworks such as **Spring Boot** and **Bootstrap**, acquiring knowledge and improving my skills as a developer, I am currently studying an Engineering degree in Software Development and developing university projects.
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools 🛠️
 - **Programming Languages**: Java, JavaScript.
 - **Web Technologies**: HTML, CSS.
 - **Frameworks**: Spring Boot, Bootstrap.
