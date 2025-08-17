@@ -8,6 +8,6 @@ I am a FullStack developer with experience in **HTML**, **CSS**, **JavaScript**,
 ## 🛠️ Technologies & Tools 🛠️
 - **Programming Languages**: Java, JavaScript.
 - **Web Technologies**: HTML, CSS.
-- **Frameworks**: Spring Boot, Bootstrap.
+- **Frameworks**: Spring Boot, Bootstrap, Tailwindcss.
 - **Databases**: MySQL, SQL Server, DBeaver.
 - **Tools**: Git, GitHub.
